@@ -1,0 +1,4 @@
+docker-compose.yaml
+service.exe
+*.idea
+*.env
